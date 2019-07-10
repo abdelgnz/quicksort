@@ -1,0 +1,11 @@
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.csprojAssemblyReference.cache
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.csproj.CoreCompileInputs.cache
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.AssemblyInfoInputs.cache
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.AssemblyInfo.cs
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\bin\Debug\netcoreapp2.1\ordenamiento.deps.json
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\bin\Debug\netcoreapp2.1\ordenamiento.runtimeconfig.json
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\bin\Debug\netcoreapp2.1\ordenamiento.runtimeconfig.dev.json
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\bin\Debug\netcoreapp2.1\ordenamiento.dll
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\bin\Debug\netcoreapp2.1\ordenamiento.pdb
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.dll
+D:\Repositorio\UNCO\Algoritmos Y Complejidad\ordenamiento\obj\Debug\netcoreapp2.1\ordenamiento.pdb
